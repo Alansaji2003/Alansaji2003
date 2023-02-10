@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alansaji2003
+- 👋 Hi, I’m Alan Saji
 - 👀 I’m interested in everything reated to computers and programming
 - 🌱 I’m currently learning html css javascript and python 
 
