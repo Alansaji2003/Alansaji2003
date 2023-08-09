@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alan Saji
-- 👀 I’m interested in everything reated to computers and programming
-- 🌱 I’m currently learning html css javascript and python 
+- 👀 I’m interested in UIUX, Game development, unreal, unity, AR VR technologies, Machine Learning and web development
+- 🌱 I’m currently learning Machine Learning and DSA
 
 - 📫 How to reach me rockstaralansaji@gmail.com
 - FIND ME : https://linktr.ee/alansaji2003
