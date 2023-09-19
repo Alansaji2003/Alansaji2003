@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA, VR/AR, React, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://zealous-mud-073717b00.3.azurestaticapps.net/](https://zealous-mud-073717b00.3.azurestaticapps.net/)
+
 
 - 💬 Ask me about **Web Development , Javascript, R language**
 
