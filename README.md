@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **VR/AR technologies, Data Structures**
 
-- 🌱 I’m currently learning **DSA, VR/AR, React, Machine Learning**
+- 🌱 I’m currently learning **DSA, Backend , ARVR. Python, JavaScript, Java**
 
 
 
