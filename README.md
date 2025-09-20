@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on VR/AR technologies, Data Structures<br>🌱 I’m currently learning DSA, Backend , ARVR. Python, JavaScript, Java<br>💬 Ask me about Web Development , Javascript<br>📫 How to reach me rockstaralansaji@gmail.com<br>⚡ Fun fact I am relentless
+🔭 I’m currently working on AI technologies, Data Structures<br>🌱 I’m currently learning DSA, Backend, Python, JavaScript, Java<br>💬 Ask me about Web Development , Javascript<br>📫 How to reach me rockstaralansaji@gmail.com<br>⚡ Fun fact I am relentless
 
 
 ## 🌐 Socials:
